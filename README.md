@@ -28,8 +28,8 @@ Language: Python 3.14
 
 1) Clone the repository:
    
-git clone [YOUR_REPO_URL]
-cd [YOUR_REPO_NAME]
+git clone https://github.com/marianzavola/FastAPI_Project.git
+cd FastAPI_Project
 
 3) Install the required dependencies:
    
