@@ -17,11 +17,11 @@ It allows users to perform basic Read and Create operations on a collection of t
 
   Technology
 
-Backend Framework: FastAPI
+1) Backend Framework: FastAPI
 
-Data Validation: Pydantic
+2) Data Validation: Pydantic
 
-Language: Python 3.14
+3) Language: Python 3.14
 
 
   Installation
